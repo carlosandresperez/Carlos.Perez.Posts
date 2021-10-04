@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.WPF\\Posts.WPF.csproj": {}
+    "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.WPF\\Posts.WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj": {
+    "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj",
         "projectName": "Posts.Domain",
-        "projectPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj",
+        "projectPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj",
         "packagesPath": "C:\\Users\\Carlos Andres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj": {
+    "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
         "projectName": "Posts.JsonPlaceHolderAPI",
-        "projectPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
+        "projectPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
         "packagesPath": "C:\\Users\\Carlos Andres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj": {
-                "projectPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj"
+              "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj": {
+                "projectPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.WPF\\Posts.WPF.csproj": {
+    "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.WPF\\Posts.WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.WPF\\Posts.WPF.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.WPF\\Posts.WPF.csproj",
         "projectName": "Posts.WPF",
-        "projectPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.WPF\\Posts.WPF.csproj",
+        "projectPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.WPF\\Posts.WPF.csproj",
         "packagesPath": "C:\\Users\\Carlos Andres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.WPF\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.WPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,11 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj": {
-                "projectPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj"
+              "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj": {
+                "projectPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj"
               },
-              "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj": {
-                "projectPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj"
+              "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj": {
+                "projectPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj"
               }
             }
           }

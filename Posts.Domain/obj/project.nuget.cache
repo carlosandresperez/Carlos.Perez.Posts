@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OwMXT0l1yPvXB5Wvm+tFE/62q7xBu050MhU2HA7Ezw4QB/xIxGZTDH7kJn8Bv30pd86UoZbD5WPnr5Vc6uSH4g==",
+  "dgSpecHash": "Z6pfXFqf3K3ETFz2vE8tk/Og6elnt0y3lOS1H2NSBHJTsKcA0nws5p44uEpdUNITZLeo2m6hIuKvhKmzoE/yTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

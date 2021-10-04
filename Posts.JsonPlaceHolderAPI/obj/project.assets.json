@@ -72,11 +72,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
       "projectName": "Posts.JsonPlaceHolderAPI",
-      "projectPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
+      "projectPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
       "packagesPath": "C:\\Users\\Carlos Andres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.JsonPlaceHolderAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carlos Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj": {
-              "projectPath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.Domain\\Posts.Domain.csproj"
+            "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj": {
+              "projectPath": "C:\\Users\\Carlos Andres\\Documents\\GitHub\\Carlos.Perez.Posts\\Posts.Domain\\Posts.Domain.csproj"
             }
           }
         }
