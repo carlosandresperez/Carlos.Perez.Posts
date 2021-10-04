@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEFYQ59borv3mAIDvFqgCWhEYm49A9pbw3mGwKGfrlw96suwjtihxBxN1MOeCQnXIW+dZOIQJ2fVY12AdS39Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Andres\\source\\repos\\Posts.Zivver.CarlosPerez\\Posts.JsonPlaceHolderAPI\\Posts.JsonPlaceHolderAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Andres\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

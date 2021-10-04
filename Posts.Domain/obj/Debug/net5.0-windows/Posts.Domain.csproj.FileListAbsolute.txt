@@ -1,0 +1,12 @@
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\bin\Debug\net5.0-windows\Posts.Domain.deps.json
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\bin\Debug\net5.0-windows\Posts.Domain.dll
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\bin\Debug\net5.0-windows\ref\Posts.Domain.dll
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\bin\Debug\net5.0-windows\Posts.Domain.pdb
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\obj\Debug\net5.0-windows\Posts.Domain.csprojAssemblyReference.cache
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\obj\Debug\net5.0-windows\Posts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\obj\Debug\net5.0-windows\Posts.Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\obj\Debug\net5.0-windows\Posts.Domain.AssemblyInfo.cs
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\obj\Debug\net5.0-windows\Posts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\obj\Debug\net5.0-windows\Posts.Domain.dll
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\obj\Debug\net5.0-windows\ref\Posts.Domain.dll
+C:\Users\Carlos Andres\source\repos\Posts.Zivver.CarlosPerez\Posts.Domain\obj\Debug\net5.0-windows\Posts.Domain.pdb
